@@ -1,0 +1,46 @@
+{
+  "uid" : "76e3529672369e9e",
+  "name" : "basic test",
+  "fullName" : "basic test",
+  "historyId" : "webkit example.spec.ts basic test",
+  "time" : {
+    "start" : 1642437767102,
+    "stop" : 1642437772730,
+    "duration" : 5628
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "language",
+    "value" : "JavaScript"
+  }, {
+    "name" : "framework",
+    "value" : "Playwright"
+  }, {
+    "name" : "parentSuite",
+    "value" : "webkit"
+  }, {
+    "name" : "suite",
+    "value" : "example.spec.ts"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "76e3529672369e9e.json",
+  "parameterValues" : [ ]
+}

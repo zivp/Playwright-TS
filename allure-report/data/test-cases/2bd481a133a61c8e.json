@@ -1,0 +1,46 @@
+{
+  "uid" : "2bd481a133a61c8e",
+  "name" : "basic test",
+  "fullName" : "basic test",
+  "historyId" : "chromium example.spec.ts basic test",
+  "time" : {
+    "start" : 1642437500437,
+    "stop" : 1642437504049,
+    "duration" : 3612
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "language",
+    "value" : "JavaScript"
+  }, {
+    "name" : "framework",
+    "value" : "Playwright"
+  }, {
+    "name" : "parentSuite",
+    "value" : "chromium"
+  }, {
+    "name" : "suite",
+    "value" : "example.spec.ts"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2bd481a133a61c8e.json",
+  "parameterValues" : [ ]
+}

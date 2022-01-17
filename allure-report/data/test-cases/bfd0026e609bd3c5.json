@@ -1,0 +1,64 @@
+{
+  "uid" : "bfd0026e609bd3c5",
+  "name" : "basic test",
+  "fullName" : "basic test",
+  "historyId" : "chromium example.spec.ts basic test",
+  "time" : {
+    "start" : 1642437788419,
+    "stop" : 1642437791433,
+    "duration" : 3014
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 2,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "language",
+    "value" : "JavaScript"
+  }, {
+    "name" : "framework",
+    "value" : "Playwright"
+  }, {
+    "name" : "parentSuite",
+    "value" : "chromium"
+  }, {
+    "name" : "suite",
+    "value" : "example.spec.ts"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "a2651a000a60082a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642437767096,
+        "stop" : 1642437770972,
+        "duration" : 3876
+      }
+    }, {
+      "uid" : "2bd481a133a61c8e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642437500437,
+        "stop" : 1642437504049,
+        "duration" : 3612
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "bfd0026e609bd3c5.json",
+  "parameterValues" : [ ]
+}
