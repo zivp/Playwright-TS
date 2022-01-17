@@ -9,7 +9,7 @@ pipeline {
                 }
             }
             steps {
-                bat 'npx playwright test'
+                sh 'npx playwright test'
             }
         }
     }
